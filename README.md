@@ -7,3 +7,5 @@ It's made in a clean MVC architecture so implementing new automatons is quite ea
 ### Context
 
 This project was made by Alice DRAILLARD and Hugo FOURNIER for our CPBx computer science project (from February to March 2018) as our first steps in software architectures and GUI with the Tkinter library.
+
+I lost access to my SAVANE account where the project was actually versioned at that time, that is why there are no commits here.

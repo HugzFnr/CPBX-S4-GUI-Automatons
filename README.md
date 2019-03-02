@@ -10,7 +10,7 @@ This project was made by Alice DRAILLARD and Hugo FOURNIER for our CPBx computer
 
 I lost access to my SAVANE account where the project was actually versioned at that time, that is why there are no commits here.
 
-###Demonstration
+### Demonstration
 
 Here is a video demonstration of the game that I commented in french : https://youtu.be/m1hRw1c_NWk
 

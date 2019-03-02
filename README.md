@@ -12,6 +12,6 @@ I lost access to my SAVANE account where the project was actually versioned at t
 
 ### Demonstration
 
-Here is a video demonstration of the game that I commented in french : https://youtu.be/m1hRw1c_NWk
+Here is a 1 minute long video demonstration of the game that I commented in french : https://youtu.be/m1hRw1c_NWk
 
 One day I shall subtitle it in english, promised.
